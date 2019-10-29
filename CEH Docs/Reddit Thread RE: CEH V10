@@ -1,0 +1,48 @@
+Passed the CEH 4/9/2019
+Post Exam Study Write Up
+Just wanted to add to the bevy of posts about how the exam went for me and my experience with it as well as the tools I used. A lot of this will be repeated because of the already amazing posts here on the subreddit. However, each person is unique so I'll give you my side
+
+My Background
+I've been in IT for as long as I could reach a keyboard. I've always been a generalist, but professionally, I have been a software developer (both back and front end) for over 15 years. I went into this knowing some networking because of my current job (I'm the Webmaster for local government), but beyond that, most of the information was "new" in the fact that I had to dive a lot deeper into the networking side of things.
+
+The Test
+I passed with an 87.2%.
+
+It wasn't as bad as I thought it was going to be. I'd tell you what general subjects were on mine, but as I've read the other posts in this subreddit, I've found out two things: everyone gets something different and you never know what they are going to be.
+
+While I would love to say "know the tools and know the attacks", it's not just that - it's truly knowing a little about all of the domains. My only real suggestions as far as test time is as follows:
+
+Carefully Read Each Question - watch out for "least like" or "not". Don't answer what is true when they're asking for what is not true.
+
+Try to See The Whole Picture - questions can try and trick you with details. Look at the overall picture as well when answering a question and make sure your answer covers it all.
+
+My Study Materials
+These are not in the order I used them. Not that order matters, but it will show you which direction I went in. As others have done, I've marked which I felt were great and which I could do without.
+
+EC-Council Official Training - Useful - This was a great resource and a great starting point. The labs were great and the lecture by Eric Reed was really good. Don't buy the physical books - they are just the slides from the talks.
+
+PocketPrep CEH - Useful - This was a good set of questions. not quite as focused as Boson/AIO, but still a good resource to use while you're not at your computer.
+
+SkillSet - Not Useful - This was a complete waste of money. Most of the questions here were written by either people that didn't know what they were talking about or were just trying to prove they knew things you didn't. Skillset I don't think writes any of the questions - I think they are all written by community members.
+
+CEH All-in-One Exam Guide, Fourth Edition - Necessary - Matt Walker does an amazing job at this book. Not only does he cover the domains completely, he is a really good writer. It doesn't seem like you're reading a book about tech at all. He makes it... dare I say... fun? Definitely something you want to pick up.
+
+CEH All-In-One Online Tests - Very Useful - These are the questions that come along with the book, but are online. Very good set of questions to go through before you tackle the Boson questions.
+
+Boson CEH Practice Exam - Necessary - This is another great product. The questions in this are spot on with the types of questions you get on the test. I would say this is even a little bit harder than the test, which is good. It prepares you for what is to come.
+
+My GitHub Repo (Pretty Printed Version Here)- Useful - I took notes from all the sources I used and put them into markdown in a GitHub repo. Use these as you wish. I did them for me to have one place to study instead of going back and reading all of my sources again. Feel free to fork, make changes and do a pull request if you want to add or make things clearer. I won't be updating this a whole lot because I'm done with it now, but hopefully it can help some of you.
+
+My Study Method
+I started out by just going through the EC Council stuff. After finishing that, I went and did some Skillset questions. Realizing I needed to know a bunch more, I went and then focused on the AIO book. Once I finished reading that, I went back again and took notes on it. This gave me a second time through the book (not reading fully the second time - skimming and taking notes) and helped me focus on things I might have missed.
+
+After that, I started working on questions and reviewing my notes. This made up the rest of my time of studying. Each day I would go through a whole exam (125 questions from either Boson or AIO) and then review some of my notes. Then at night, I would do a shorter exam (usually Boson, AIO or PocketPrep) and then study my notes again.
+
+The nice thing about Boson is it allowed me to print out questions I missed (the other two probably would have as well, but Boson makes it really easy for you to do this, with explanations attached). I stuck these with my notes so I could study them as well.
+
+My total study time each day was probably 3 hours on average. Some days more, some days less.
+
+Final Thoughts
+I hope this helped, at least a little. The exam isn't easy, but it's not rocket science either. Study what helps you understand things best and know all of the domains and you will be fine. I was very nervous going into the test, but once I sat down and calmed myself down, I just did what I did with the practice tests and I succeeded.
+
+To all of you taking this in the future, good luck. Study hard and you will do fine.
